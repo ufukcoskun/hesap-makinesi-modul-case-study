@@ -53,7 +53,7 @@ Maven bağımlılıklarını indiremiyorsa, şunları deneyin:
 mvn dependency:purge-local-repository
 mvn clean install
 
-2.Java Sürümü
+2. Java Sürümü
 
 Kullanılan Java sürümünün uyumlu olduğundan emin olun (8 veya daha yenisi).
 
