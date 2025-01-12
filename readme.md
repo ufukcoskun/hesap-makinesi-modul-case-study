@@ -1,4 +1,4 @@
-**Hesap Makinesi Modülü Otomasyon Projesi**
+**Finansal Hesap Makinesi Modülü Otomasyon Projesi**
 
 Bu proje, Selenium tabanlı bir web test otomasyonudur. Java ile yazılmıştır ve Sayfa Nesne Modeli (Page Object Model - POM) tasarım deseni kullanır. Google Chrome üzerinde çalışacak şekilde konfigüre edilmiştir ve Cucumber ile Davranış Odaklı Geliştirme (BDD) entegrasyonuna sahiptir. Bağımlılıklar Maven aracılığıyla yönetilir.
 
