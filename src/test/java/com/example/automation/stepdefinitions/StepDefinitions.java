@@ -91,15 +91,4 @@ public class StepDefinitions {
         assertEquals(sonuc, query);
     }
 
-    @When("user searches for {string}")
-    public void user_searches_for(String query) {
-        homePage.search(query);
-    }
-
-    @Then("the search results should be displayed")
-    public void search_results_should_be_displayed() {
-        // Add assertions to verify search results
-        assertTrue("Search results are not displayed", true); // Example placeholder
-        driver.quit();
-    }
 }
