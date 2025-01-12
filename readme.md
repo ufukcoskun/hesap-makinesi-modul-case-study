@@ -58,7 +58,3 @@ mvn clean install
 Kullanılan Java sürümünün uyumlu olduğundan emin olun (8 veya daha yenisi).
 
 java -version
-
-3Test Hataları
-
-Detaylı hata kayıtları için target/cucumber-reports dizininde oluşturulan raporları inceleyin.
